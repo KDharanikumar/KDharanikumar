@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharanikumar K</h1>
-<h3 align="center">I am Data Scientist || Full Stack Developer || Data Analyst || UI/UX Designer - Figma</h3>
+<h3 align="center">Data Scientist || Full Stack Developer || Data Analyst || UI/UX Designer - Figma</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdharanikumar&label=Profile%20views&color=0e75b6&style=flat" alt="kdharanikumar" /> </p>
 
