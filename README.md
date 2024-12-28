@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://dharanportfolio.netlify.app/](https://dharanportfolio.netlify.app/)
 
-- 💬 Ask me about **Full Stack Developer-MERN**
+- 💬 Ask me about **Data Scientist || Full Stack Developer-MERN || Data Analyst || UI/UX Designer - Figma**
 
-- 📫 How to reach me **dharanfsd@gmail.com**
+- 📫 How to reach me **talktodharan@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qTUc9y3hgdzlvJV3L5HyA6oTt7mm3wD3/view](https://drive.google.com/file/d/1qTUc9y3hgdzlvJV3L5HyA6oTt7mm3wD3/view)
 
